@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.168
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HealthCheckDemo", "HealthCheckDemo\HealthCheckDemo.csproj", "{94AA8BC7-7ED5-4CE6-BD58-6E40E672B865}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{94AA8BC7-7ED5-4CE6-BD58-6E40E672B865}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{94AA8BC7-7ED5-4CE6-BD58-6E40E672B865}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{94AA8BC7-7ED5-4CE6-BD58-6E40E672B865}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{94AA8BC7-7ED5-4CE6-BD58-6E40E672B865}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {67F37B8F-E482-452A-B9FF-9AB94E3AA54A}
+	EndGlobalSection
+EndGlobal
